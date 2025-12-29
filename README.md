@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working in A web based on Flash Market . @kumarranarohit1998 is my github work account<br>🌱 I’m planning to learn about Distributed Systems and AWS<br>📝 I write articles on my blog.<br>💬 Ping me about Node.js, JavaScript, and Python.<br>📙 Check out my resume.<br>📫 Reach out to me on Linkedin or Discord (rohit-kumar-rana-557185339)
+🔭 I’m currently working in A web based on Flash Market . @rohitkumarrana1998 is my github work account<br>🌱 I’m planning to learn about Distributed Systems and AWS<br>📝 I write articles on my blog.<br>💬 Ping me about Node.js, JavaScript, and Python.<br>📙 Check out my resume.<br>📫 Reach out to me on Linkedin or Discord (rohit-kumar-rana-557185339)
 
 
 ## 🌐 Socials:
